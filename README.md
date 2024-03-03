@@ -1,4 +1,4 @@
-# Sentiment Analysis Project
+# Cinematic Sentiment Analysis
 
 ## Description
 This project involves building a text classifier for sentiment analysis using the HuggingFace library. The goal is to fine-tune a pre-trained model, specifically the distilbert-base-uncased, on a dataset of movie reviews to classify sentiments as positive or negative. The approach is inspired by the Recursive Neural Tensor Network (RNTN) model, as detailed in the paper "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank."
